@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Akrobat';
+    src: local('Akrobat Regular'), local('Akrobat-Regular'),
+        url('Akrobat-Regular.woff2') format('woff2'),
+        url('Akrobat-Regular.woff') format('woff'),
+        url('Akrobat-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
